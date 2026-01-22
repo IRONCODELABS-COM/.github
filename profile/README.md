@@ -1,5 +1,5 @@
 
-![ ](ICL OC logo.jpg)
+![ ](ICL OC Logo.png)
 
 ## Hi there 👋
 
